@@ -164,6 +164,9 @@ img {
         background-color: black;
     }
 
-    
-    
+    .why-us,
+    .steps{
+        margin-bottom: 0;
+    }
+     
 }
