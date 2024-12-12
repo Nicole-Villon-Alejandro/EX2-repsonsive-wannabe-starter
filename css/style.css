@@ -147,5 +147,23 @@ img {
     .lessons .col {
         width: 100%;
     }
+    .steps .col {
+        width: 100%;
+
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
+    .why-us{
+        background-color: black;
+    }
+
+    
     
 }
