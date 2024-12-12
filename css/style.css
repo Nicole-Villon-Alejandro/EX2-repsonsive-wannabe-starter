@@ -140,5 +140,12 @@ img {
 
 /* mobile: da 0 a 480px */
 @media screen and ( max-width:480px ){
+    .row {
+        flex-direction: column;
+    }
+
+    .lessons .col {
+        width: 100%;
+    }
     
 }
