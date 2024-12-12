@@ -130,11 +130,15 @@ img {
 /*desktop first */
 
 /*tablet: 0 a 768px */
-@media screen and ( max-width: 768px ) {
+@media screen and ( max-width: 768px ){
+    .container {
+        width: 100%;
+    }
     
 }
 
+
 /* mobile: da 0 a 480px */
-@media screen and ( max-width:480px ) {
+@media screen and ( max-width:480px ){
     
 }
