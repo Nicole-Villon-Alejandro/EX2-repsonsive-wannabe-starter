@@ -127,3 +127,14 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+/*desktop first */
+
+/*tablet: 0 a 768px */
+@media screen and ( max-width: 768px ) {
+    
+}
+
+/* mobile: da 0 a 480px */
+@media screen and ( max-width:480px ) {
+    
+}
